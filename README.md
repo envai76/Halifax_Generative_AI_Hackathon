@@ -2,7 +2,11 @@
 Welcome to the repository for our team's project in the Halifax Generative AI Hackathon! This repository contains the source code, documentation, and related materials for our project. Below is an introduction to the key components and structure of the repository.
 
 The name of this project is UpSkillMe.
+
+
  ![image](https://github.com/envai76/Halifax_Generative_AI_Hackathon/assets/112856424/861cc491-09f5-4417-a314-56dd442d76ad)
+
+
 
 **Objective of Idea**
 
