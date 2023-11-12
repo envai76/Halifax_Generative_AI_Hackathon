@@ -63,3 +63,7 @@ UpSkillMe is your personalized guide to achieving your dream career. In a world 
 The prompts are saved in final_prompts.ipynb .
 A  brief review of the demo is provided in upskillme.pptx file.
 Also, the source code of our website is stored in upskillme-main.zip file.
+
+A video for  the app is  provided here:
+https://drive.google.com/file/d/13e2IdGvOunv-md49lqVzmJ3mPzF8x3Mt/view?usp=drivesdk
+
