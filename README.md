@@ -29,7 +29,7 @@ UpSkillMe streamlines the learning process, making it accessible, personalized, 
 UpSkillMe empowers users to take control of their career journey, fostering confidence, and ensuring efficient skill acquisition.
 
 **Uniqueness and Advantages!**
-##
+
  - Personalized Skill Roadmaps
  - Smart Skill Gap Analysis
  - Daily Action Plans
@@ -42,20 +42,20 @@ UpSkillMe empowers users to take control of their career journey, fostering conf
 UpSkillMe is your personalized guide to achieving your dream career. In a world where continuous learning is the key to success, UpSkillMe stands out as a revolutionary platform designed to empower you in planning and tracking your skill development.
 
 
-
-**Frontend Technologies:**
 ##
+**Frontend Technologies:**
+
 -HTML, CSS, JavaScript:
 -Utilized for creating a dynamic and responsive user interface.
 -Enables an interactive and engaging user experience.
 
 **Backend Framework:**
-##
+
 -Flask (Python): Powers the backend logic and API integration.
 -Manages server-side processes and communicates with the OpenAI API.
 
 **AI Integration:**
-##
+
 -OpenAI Language Model (LLM):
 -Leveraged for prompt-based code generation.
 -Implements Lang Chain for personalized and efficient skill roadmaps.
