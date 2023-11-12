@@ -59,4 +59,7 @@ UpSkillMe is your personalized guide to achieving your dream career. In a world 
 -OpenAI Language Model (LLM):
 -Leveraged for prompt-based code generation.
 -Implements Lang Chain for personalized and efficient skill roadmaps.
-
+##
+The prompts are saved in final_prompts.ipynb .
+A  brief review of the demo is provided in upskillme.pptx file.
+Also, the source code of our website is stored in upskillme-main.zip file.
