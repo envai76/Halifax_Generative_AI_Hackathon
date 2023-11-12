@@ -67,3 +67,6 @@ Also, the source code of our website is stored in upskillme-main.zip file.
 A video for  the app is  provided here:
 https://drive.google.com/file/d/13e2IdGvOunv-md49lqVzmJ3mPzF8x3Mt/view?usp=drivesdk
 
+A video for  the demo-product is  provided here:
+https://drive.google.com/file/d/13vtptk3z2w-3rA9sa3BG5_6U-FurTZEE/view
+
