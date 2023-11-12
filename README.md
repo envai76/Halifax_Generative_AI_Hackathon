@@ -28,7 +28,7 @@ UpSkillMe streamlines the learning process, making it accessible, personalized, 
 
 UpSkillMe empowers users to take control of their career journey, fostering confidence, and ensuring efficient skill acquisition.
 
-**Uniqueness and Advantages![image]**
+**Uniqueness and Advantages!**
 ##
  - Personalized Skill Roadmaps
  - Smart Skill Gap Analysis
