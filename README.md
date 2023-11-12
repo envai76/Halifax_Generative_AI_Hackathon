@@ -3,7 +3,7 @@ Welcome to the repository for our team's project in the Halifax Generative AI Ha
 
 Name of this project is UpSkillMe.
  
-</b> Objective of Ide </b>
+**Objective of Idea**
 
 
 Empower individuals in achieving their career goals by providing a personalized and efficient platform for planning and tracking skill development.
